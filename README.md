@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This repository was designed as an assignment for the AI4PH course, which provides learners with the necessary skills to work effectively with data science tools and hands-on experience in analyzing real-world data. The repository contains a jupyter notebook with code that covers various aspects of data analysis, visualization, and interpretation, using Python and relevant data science libraries.
+This repository is a final assignment for the AI4PH course, which provides learners with the necessary skills to work effectively with data science tools and hands-on experience in analyzing real-world data. The repository contains a jupyter notebook with code that covers various aspects of data analysis, visualization, and interpretation, using Python and relevant data science libraries.
 
 ## Dataset Overview
 
@@ -25,13 +25,13 @@ The data was sourced from [Government of Ontario Public Health Dataset](https://
 
 ## Notebook
 
-1. **Fatality Rate Analysis**: Focuses on the mortality rates and factors contributing to variations across different demographics.
+1. **Fatality Rate Analysis**: Focuses on the mortality rates and factors contributing to variations.
 
 ## Tools and Technologies
 
 - **Python**: Primary programming language for data analysis.
 - **Jupyter Notebooks**: Interactive computing environment for creating and sharing documents that contain live code, equations, visualizations, and narrative text.
-- **Pandas, NumPy, Matplotlib**: Key Python libraries for data manipulation and visualization.
+- **Pandas, Matplotlib**: Key Python libraries for data manipulation and visualization.
 - **Git/GitHub**: Used for version control and sharing the project for collaborative purposes.
 
 ## Getting Started
@@ -44,7 +44,7 @@ To get started with this project:
 
 ## Contributing
 
-We welcome contributions to this project. Please read the `CONTRIBUTING.md` file for guidelines on how to make contributions.
+Contributions are welcomed on this project.
 
 ## License
 
