@@ -3,9 +3,7 @@
 chromedriver
 .DS_Store
 *.DS_Store
-/bin
+/ai4ph
 /include
-/lib
-/lib64
 __pycache__
 *.csv
