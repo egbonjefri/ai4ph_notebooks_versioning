@@ -14,7 +14,7 @@ The COVID dataset used in this project includes data on the daily reported numbe
 - Number of deaths with “COVID-19 contributed but not underlying cause”
 - Number of deaths where the “Cause of death unknown” or “Cause of death missing”
 
-The data was sourced from [Government of Ontario Public Health Dataset](https://data.ontario.ca/dataset/deaths-involving-covid-19-by-fatality-type/) .
+The data was sourced from [Government of Ontario Public Health Dataset](https://data.ontario.ca/dataset/deaths-involving-covid-19-by-fatality-type).
 
 ## Key Objectives
 
@@ -32,7 +32,7 @@ The data was sourced from [Government of Ontario Public Health Dataset](https://
 - **Python**: Primary programming language for data analysis.
 - **Jupyter Notebooks**: Interactive computing environment for creating and sharing documents that contain live code, equations, visualizations, and narrative text.
 - **Pandas, Matplotlib**: Key Python libraries for data manipulation and visualization.
-- **Git/GitHub**: Used for version control and sharing the project for collaborative purposes.
+- **Git/GitHub**: Used for version control and sharing the project for grading/collaborative purposes.
 
 ## Getting Started
 
